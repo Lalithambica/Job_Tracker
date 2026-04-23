@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.upcomingInterview {
+  background: #22c55e !important;
+  color: white !important;
+}
+
+.urgentInterview {
+  background: #facc15 !important;
+  color: black !important;
+}
+
+.pastInterview {
+  background: #ef4444 !important;
+  color: white !important;
+}
